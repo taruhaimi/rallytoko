@@ -1,0 +1,227 @@
+{
+    "KÄÄNNÖS OIKEAAN": {
+        "luokka": "AVO",
+        "käännös": 90,
+        "esine": 0,
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "KÄÄNNÖS VASEMPAAN":
+    {
+        "luokka": "AVO",
+        "käännös": 90,
+        "esine": 0, 
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "270 KÄÄNNÖS VASEMPAAN":{
+        "luokka": "AVO",
+        "käännös": 270,
+        "esine": 0,
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "270 KÄÄNNÖS OIKEAAN":{
+        "luokka": "AVO",
+        "käännös": 270,
+        "esine": 0, 
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "TÄYSKÄÄNNÖS OIKEAAN":{
+        "luokka": "AVO",
+        "käännös": 180,
+        "esine": 0, 
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "TÄYSKÄÄNNÖS VASEMPAAN":{
+        "luokka": "AVO",
+        "käännös": 180,
+        "esine": 0, 
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "VASEN TÄYSKÄÄNNÖS":{
+        "luokka": "AVO",
+        "käännös": 180,
+        "esine": 0, 
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "360 OIKEAAN":{
+        "luokka": "AVO",
+        "käännös": 360,
+        "esine": 0, 
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "360 VASEMPAAN":{
+        "luokka": "AVO",
+        "käännös": 360,
+        "esine": 0, 
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "HITAASTI":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 0,
+        "vauhti": 1
+    },
+    "JUOSTEN":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 0,
+        "vauhti": 1
+    },
+    "NORMAALI VAUHTI":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 0,
+        "vauhti": 1
+    },
+    "ASKEL OIKEALLE":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "SPIRAALI OIKEALLE":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 1,
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "SPIRAALI VASEMMALLE":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 1,
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "PUJOTTELU EDESTAKAISIN":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 1,
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "PUJOTTELU":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 1,
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "ETEEN ISTU, OIKEALTA SIVULLE":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "ETEEN ISTU, VASEMMALTA SIVULLE":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "ETEEN ISTU, VASEMMALTA SIVULLE, ISTU":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "ETEEN ISTU, OIKEALTA SIVULLE, ISTU":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "ISTU, 1 ASKEL ISTU, 2 ASKELTA ISTU, 3 ASKELTA ISTU":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "ISTU, 1 ASKEL - SEISO, 2 ASKELTA - ISTU, 3 ASKELTA - MAAHAN":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "ETEEN ISTU, 1 ASKEL PERUUTTAEN - ISTU, 2 ASKELTA PERUUTTAEN - ISTU, 3 ASKELTA PERUUTTAEN - ISTU":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "ISTU, ISTUMISESTA JUOSTEN":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "ISTU, KIERRÄ KOIRAN YMPÄRI":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "ISTU, MAAHAN":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "MAAHAN":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "ISTU, MAAHAN, KIERRÄ KOIRAN YMPÄRI":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "ISTU":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    },
+    "KAHDEKSIKKO":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 1,
+        "pysäytys": 0,
+        "vauhti": 0
+    },
+    "OHJAAJAN YMPÄRI MYÖTÄPÄIVÄÄN":{
+        "luokka": "AVO",
+        "käännös": 0,
+        "esine": 0, 
+        "pysäytys": 1,
+        "vauhti": 0
+    }
+}
